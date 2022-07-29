@@ -1,0 +1,4 @@
+﻿  rps-basic-cpp.cpp
+C:\Users\Levente\Desktop\C++\RPS\rps-basic-cpp\rps-basic-cpp.cpp(40,15): warning C4244: 'argument': conversion from 'time_t' to 'unsigned int', possible loss of data
+C:\Users\Levente\Desktop\C++\RPS\rps-basic-cpp\rps-basic-cpp.cpp(49): warning C4715: 'ComputerChoice': not all control paths return a value
+  rps-basic-cpp.vcxproj -> C:\Users\Levente\Desktop\C++\RPS\x64\Debug\rps-basic-cpp.exe
